@@ -12,4 +12,8 @@
 
 ## Sorted
 
+- **Iblis for devil**
+
+- **thing for thinking in Iblis world**
+
 © \`d\` `thing`, 2023

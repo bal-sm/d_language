@@ -1,6 +1,8 @@
 # English_(d)
 
-## Unsorted
+## Word list
+
+### Unsorted
 
 - `akun` for _account_ in **Islamic** _accounting_
 
@@ -10,7 +12,7 @@
 
 - `think` for _thinking_ in _'d' world_
 
-## Sorted
+### Sorted
 
 - **Iblis for devil**
 
